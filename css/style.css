@@ -150,6 +150,7 @@ header {
 }
 main {
     border-radius: 15px;
+    margin-left: 100px;
 }
 .Video {
     justify-content: center;
